@@ -1,142 +1,121 @@
-<!-- Cabeçalho animado: gradiente açaí → floresta -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:3b0764,55:6d28d9,100:059669&section=header&text=%C3%81bner%20Lucas&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Educa%C3%A7%C3%A3o%20%E2%80%A2%20Intelig%C3%AAncia%20Artificial%20%E2%80%A2%20Tecnologia%20na%20Amaz%C3%B4nia&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Ábner Lucas"/>
-</p>
+<!-- Mesma identidade visual de profabnerlucas.com. As imagens de assets/ são geradas por scripts/gerar_svgs.py. -->
 
 <p align="center">
-  <a href="https://profabnerlucas.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&lines=Professor+EBTT+no+IFPA+%E2%80%94+Campus+Breves+%F0%9F%8C%B3;Pesquisador+em+Intelig%C3%AAncia+Artificial+%F0%9F%A7%A0;Criando+laborat%C3%B3rios+interativos+para+o+ensino+%F0%9F%9A%80;Python+%E2%80%A2+Data+Mining+%E2%80%A2+Next.js+%E2%80%A2+Three.js" alt="Professor, pesquisador e desenvolvedor"/>
-  </a>
+  <a href="https://profabnerlucas.com"><img src="assets/abertura.svg" width="100%" alt="Olá, eu sou o Ábner! Tecnologia que se aprende fazendo. Professor EBTT do IFPA Campus Breves, no Marajó, com disciplinas, laboratórios interativos e pesquisas em Inteligência Computacional e Robótica."/></a>
 </p>
 
 <p align="center">
-  <a href="https://profabnerlucas.com"><img src="https://img.shields.io/badge/Site-profabnerlucas.com-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site"/></a>
-  <a href="https://linkedin.com/in/abnerlucas"><img src="https://img.shields.io/badge/LinkedIn-abnerlucas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://lattes.cnpq.br/7018451290087512"><img src="https://img.shields.io/badge/Lattes-CNPq-059669?style=for-the-badge&logo=bookstack&logoColor=white" alt="Currículo Lattes"/></a>
-  <a href="https://orcid.org/0000-0002-2554-8246"><img src="https://img.shields.io/badge/ORCID-0000--0002--2554--8246-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="mailto:abner.lucas@ifpa.edu.br"><img src="assets/botoes/fale-comigo.svg" height="46" alt="Fale comigo"/></a>
+  <a href="https://profabnerlucas.com"><img src="assets/botoes/site.svg" height="46" alt="profabnerlucas.com"/></a>
+  <a href="https://www.linkedin.com/in/abnerlucas"><img src="assets/botoes/linkedin.svg" height="46" alt="LinkedIn"/></a>
+  <a href="https://lattes.cnpq.br/7018451290087512"><img src="assets/botoes/lattes.svg" height="46" alt="Currículo Lattes"/></a>
+  <a href="https://orcid.org/0000-0002-2554-8246"><img src="assets/botoes/orcid.svg" height="46" alt="ORCID"/></a>
 </p>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/faixa-escuro.svg"/>
+  <img src="assets/faixa-claro.svg" width="100%" alt="Tecnologias: Robótica, Three.js, Sensores, Deep Learning, RoboCup Junior, Next.js, Python, MNE-Python, WebGL, Redes Neurais, IoT, Tinkercad, Blender, Supabase, Git e GitHub"/>
+</picture>
 
-## 👋 Olá! Eu sou o Ábner
+<br/><br/>
 
-Professor do **Ensino Básico, Técnico e Tecnológico (EBTT)** no **IFPA — Campus Breves**, no coração do Marajó 🌊, e **Mestre em Ciência da Computação**. Pesquiso **Inteligência Artificial** e **Mineração de Dados**, e transformo conteúdos de computação em **experiências interativas** que meus estudantes podem explorar no navegador.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titulos/01-sobre-escuro.svg"/>
+  <img src="assets/titulos/01-sobre-claro.svg" width="100%" alt="01 · Sobre mim — Prazer, eu sou Ábner Lucas."/>
+</picture>
 
-```python
-class AbnerLucas:
-    cargo       = "Professor EBTT · IFPA Campus Breves (PA)"
-    formacao    = "Mestre em Ciência da Computação"
-    pesquisa    = ["Inteligência Artificial", "Mineração de Dados", "Sinais de EEG", "Metaheurísticas"]
-    leciona     = ["Computação Gráfica", "Programação Web", "Redes de Computadores"]
-    agora       = "Construindo plataformas educacionais interativas 🌱"
-    lema        = "Da Amazônia para o mundo 🌳"
-```
+<img align="right" width="290" src="assets/sobre.svg" alt="Cartão com a frase foco, curiosidade e código, o robozinho mascote e a etiqueta professor desde 2015"/>
 
-> 🎓 **É meu aluno?** Materiais, laboratórios e avisos das turmas estão em **[profabnerlucas.com](https://profabnerlucas.com)**.
+Sou professor do **Eixo Informação e Comunicação do IFPA Campus Breves** e mestre em Ciência da Computação na linha de **Inteligência Computacional**.
 
----
+Gosto de transformar conceitos abstratos — projeções 3D, protocolos de rede, redes neurais — em experiências que cabem no navegador e que os estudantes podem **tocar, quebrar e reconstruir**.
 
-## 🚀 Projetos em destaque
+Na pesquisa, trabalho com **Deep Learning**, redes neurais artificiais, sinais cerebrais (**EEG**) e **robótica**, sempre buscando aplicações que façam sentido para a realidade amazônica.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛰️ <a href="https://github.com/abner-lucas/missao-osi">Missão OSI</a></h3>
-      <p>Plataforma para ensinar o <b>Modelo OSI</b> com simulações visuais, desafios investigativos e avaliações por etapas.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Redes-6d28d9?style=flat-square"/>
-      <p><a href="https://missao-osi.profabnerlucas.com"><b>🌐 Acessar</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧊 <a href="https://github.com/abner-lucas/geo3d-lab-interativo-cg">Geo3D Lab</a></h3>
-      <p>Laboratório de <b>Computação Gráfica</b> para explorar sólidos 3D, planificações e avaliações.</p>
-      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-      <p><a href="https://geo3d-lab-interativo.vercel.app/"><b>🌐 Acessar</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/abner-lucas/letramento-digital-em-ia">Letramento Digital em IA</a></h3>
-      <p>Curso para estudantes e comunidades de Belém do Pará. Parceria <b>PRODEPA, iSACI, IFPA e UFPA</b>.</p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Prompt_Engineering-059669?style=flat-square"/>
-      <p><a href="https://abner-lucas.github.io/letramento-digital-em-ia/"><b>🌐 Acessar</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🫐 <a href="https://github.com/abner-lucas/monitor-acai">Monitor Açaí</a></h3>
-      <p>Gestão e sorteio de rodízio de <b>sensores IoT</b> no Sistema Agroflorestal de Açaí do IFPA Breves.</p>
-      <img src="https://img.shields.io/badge/IoT-6d28d9?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-      <p><a href="https://monitor-acai.vercel.app"><b>🌐 Acessar</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 <a href="https://github.com/abner-lucas/computacao-grafica">Portal de Computação Gráfica</a></h3>
-      <p>Projetos práticos, modelos 3D interativos com <b>Three.js/WebGL</b> e roteiros passo a passo.</p>
-      <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
-      <p><a href="https://abner-lucas.github.io/computacao-grafica/"><b>🌐 Acessar</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💻 <a href="https://github.com/abner-lucas/programacao-web">Portal de Programação Web</a></h3>
-      <p>Roteiros didáticos, atividades e materiais de <b>HTML5, CSS3, JavaScript</b> e design responsivo.</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <p><a href="https://abner-lucas.github.io/programacao-web/"><b>🌐 Acessar</b></a></p>
-    </td>
-  </tr>
-</table>
+`Inteligência Computacional` `Deep Learning` `Redes Neurais` `Robótica` `Computação Gráfica` `Desenvolvimento Web`
 
----
+> Este perfil usa a mesma identidade visual do meu site. O código dele também é aberto: [abner-lucas/portfolio](https://github.com/abner-lucas/portfolio).
 
-## 🔬 Pesquisa
+<br clear="right"/>
+<br/>
 
-| Área | Trabalhos |
-| :-- | :-- |
-| 🧠 **Sinais de EEG** | [Pré-processamento com MNE](https://github.com/abner-lucas/EEG-Preprocessing-MNE) · [Extração de características e classificação](https://github.com/abner-lucas/EEG-Feature-Extraction-Classification) · [Previsão de séries temporais](https://github.com/abner-lucas/EEG-Time-Series-Prediction) |
-| 🐝 **Metaheurísticas e otimização** | [PSO para hiperparâmetros](https://github.com/abner-lucas/PSO-Hyperparameter-Optimization-Classification) · [PSO e Random Walk](https://github.com/abner-lucas/PSO-Random-Walk-Implementation) · [Busca Tabu no CVRP](https://github.com/abner-lucas/Tabu-Search-CVRP) · [Algoritmo Genético no CVRP](https://github.com/abner-lucas/Genetic-Algorithm-CVRP) |
-| 🕸️ **Redes neurais** | [Perceptron simples](https://github.com/abner-lucas/Single-Layer-Perceptron) · [MLP para classificação](https://github.com/abner-lucas/Multilayer-Perceptron-Classification) |
-| 🐆 **Visão computacional e biodiversidade** | [Detecção de animais em armadilhas fotográficas (MegaDetector + YOLOv5)](https://github.com/abner-lucas/MegaDetector-Animal-CameraTrap) |
-| 🧬 **Bioinformática** | [Banco de dados do genoma do *T. cruzi*](https://github.com/abner-lucas/tp-cruzi-db) |
-| 💬 **LLMs** | [Chatbot GPT no Telegram com LangChain](https://github.com/abner-lucas/GPT-Telegram-Chatbot) |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titulos/02-laboratorio-escuro.svg"/>
+  <img src="assets/titulos/02-laboratorio-claro.svg" width="100%" alt="02 · Laboratório aberto — Subapps que viram sala de aula. Psiu: tudo é código aberto, pode estudar à vontade!"/>
+</picture>
 
----
-
-## 🛠️ Tecnologias
-
-<p align="center"><b>Dados e IA</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=py,anaconda,sklearn,pytorch,opencv&theme=dark" alt="Dados e IA"/>
+<p align="center">
+  <a href="https://osi.profabnerlucas.com/"><img src="assets/subapps/missao-osi.svg" width="48%" alt="Missão OSI · Investigadores da Rede: estudantes investigam as sete camadas do modelo OSI com testes simulados"/></a>
+  <a href="https://geo3d-lab-interativo.vercel.app/"><img src="assets/subapps/geo3d.svg" width="48%" alt="Geo3D · Laboratório Interativo: sólidos 3D com planificação, projeções ortogonais e desafios"/></a>
 </p>
-<p align="center"><b>Web e 3D</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,threejs&theme=dark" alt="Web e 3D"/>
+<p align="center">
+  <a href="https://abner-lucas.github.io/letramento-digital-em-ia/"><img src="assets/subapps/letramento-ia.svg" width="48%" alt="Letramento Digital em IA: curso para estudantes e comunidades de Belém"/></a>
+  <a href="https://monitor-acai.vercel.app"><img src="assets/subapps/monitor-acai.svg" width="48%" alt="MonitorAçaí: rodízio de sensores de umidade do solo no sistema agroflorestal de açaí"/></a>
 </p>
-<p align="center"><b>Dados, deploy e ferramentas</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,vercel,git,github,vscode&theme=dark" alt="Ferramentas"/>
+<p align="center">
+  <a href="https://abner-lucas.github.io/computacao-grafica/"><img src="assets/subapps/computacao-grafica.svg" width="48%" alt="Portal de Computação Gráfica: trilha de aprendizado e modelos 3D interativos"/></a>
+  <a href="https://abner-lucas.github.io/programacao-web/"><img src="assets/subapps/programacao-web.svg" width="48%" alt="Portal de Programação Web: projetos práticos e roteiros de HTML5, CSS3 e JavaScript"/></a>
 </p>
 
----
+<p align="center"><sub>
+  Código-fonte:
+  <a href="https://github.com/abner-lucas/missao-osi">missao-osi</a> ·
+  <a href="https://github.com/abner-lucas/geo3d-lab-interativo-cg">geo3d-lab-interativo-cg</a> ·
+  <a href="https://github.com/abner-lucas/letramento-digital-em-ia">letramento-digital-em-ia</a> ·
+  <a href="https://github.com/abner-lucas/monitor-acai">monitor-acai</a> ·
+  <a href="https://github.com/abner-lucas/computacao-grafica">computacao-grafica</a> ·
+  <a href="https://github.com/abner-lucas/programacao-web">programacao-web</a>
+</sub></p>
 
-## 📊 Atividade no GitHub
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titulos/03-pesquisa-escuro.svg"/>
+  <img src="assets/titulos/03-pesquisa-claro.svg" width="100%" alt="03 · Pesquisa e produção — Ciência feita no Marajó. Do açaí às ondas cerebrais."/>
+</picture>
+
+| Ano | Trabalho | Tipo |
+| :-: | :-- | :-- |
+| 2026 | **Morfometria Computacional e IA:** otimização de peneiras no despolpamento do açaí em Breves-PA · *em andamento* | Projeto de pesquisa |
+| 2026 | [**MonitorAçaí:** rodízio de sensores de umidade do solo no SAF de açaí do Campus Breves](https://github.com/abner-lucas/monitor-acai) · *em andamento* | Pesquisa aberta |
+| 2024 | [Extração de características de EEG com DWT e classificação de grupos controle e superdotados](https://github.com/abner-lucas/EEG-Feature-Extraction-Classification) | Pesquisa aberta |
+| 2024 | [Predição de séries temporais de EEG com redes MLP](https://github.com/abner-lucas/EEG-Time-Series-Prediction) | Pesquisa aberta |
+| 2024 | [Pré-processamento de EEG (BrainVision) com MNE-Python](https://github.com/abner-lucas/EEG-Preprocessing-MNE) | Pesquisa aberta |
+| 2024 | [Otimização de hiperparâmetros de redes neurais com PSO](https://github.com/abner-lucas/PSO-Hyperparameter-Optimization-Classification) | Pesquisa aberta |
+| 2023 | [**Deep Learning Applied to ERP in the Search for Spatial Intelligence Signatures**](https://doi.org/10.1007/978-3-031-27524-1_77) · Springer | Capítulo de livro |
+| 2023 | **Consulta Inteligente:** chatbot com IA para atendimento à comunidade do IFPA Campus Breves | Projeto de pesquisa |
+
+<p align="center"><sub>
+  Orientações de TCC, extensão e a lista completa em <a href="https://profabnerlucas.com/pesquisa">profabnerlucas.com/pesquisa</a> ·
+  mais estudos abertos: <a href="https://github.com/abner-lucas/Tabu-Search-CVRP">Busca Tabu</a>,
+  <a href="https://github.com/abner-lucas/Genetic-Algorithm-CVRP">Algoritmo Genético</a>,
+  <a href="https://github.com/abner-lucas/Multilayer-Perceptron-Classification">MLP</a>,
+  <a href="https://github.com/abner-lucas/MegaDetector-Animal-CameraTrap">MegaDetector</a> e
+  <a href="https://github.com/abner-lucas/tp-cruzi-db">T. cruzi DB</a>
+</sub></p>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titulos/04-github-escuro.svg"/>
+  <img src="assets/titulos/04-github-claro.svg" width="100%" alt="04 · No GitHub — Código em movimento. Commits, estrelas e uma cobrinha faminta."/>
+</picture>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abner-lucas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=a78bfa&icon_color=34d399&text_color=c9d1d9&ring_color=8b5cf6&locale=pt-br"/>
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=abner-lucas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=ffffff&title_color=6d28d9&icon_color=059669&text_color=1f2328&ring_color=6d28d9&locale=pt-br" alt="Estatísticas do GitHub"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abner-lucas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=24&rank_icon=github&bg_color=0e1714&title_color=3dd69b&icon_color=c8f05a&text_color=e6efea&ring_color=c8f05a&locale=pt-br"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=abner-lucas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=24&rank_icon=github&bg_color=f3f5ef&title_color=0e7a54&icon_color=13976a&text_color=0c1a15&ring_color=0e7a54&locale=pt-br" alt="Estatísticas do GitHub"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abner-lucas&layout=compact&langs_count=6&size_weight=0&count_weight=1&exclude_repo=tp-cruzi-db&hide=purebasic,plpgsql&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&locale=pt-br"/>
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abner-lucas&layout=compact&langs_count=6&size_weight=0&count_weight=1&exclude_repo=tp-cruzi-db&hide=purebasic,plpgsql&hide_border=true&bg_color=ffffff&title_color=6d28d9&text_color=1f2328&locale=pt-br" alt="Linguagens mais usadas"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abner-lucas&layout=compact&langs_count=6&size_weight=0&count_weight=1&exclude_repo=tp-cruzi-db&hide=purebasic,plpgsql&hide_border=true&border_radius=24&bg_color=0e1714&title_color=3dd69b&text_color=e6efea&locale=pt-br"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abner-lucas&layout=compact&langs_count=6&size_weight=0&count_weight=1&exclude_repo=tp-cruzi-db&hide=purebasic,plpgsql&hide_border=true&border_radius=24&bg_color=f3f5ef&title_color=0e7a54&text_color=0c1a15&locale=pt-br" alt="Linguagens mais usadas"/>
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abner-lucas&hide_border=true&background=0d1117&ring=8b5cf6&fire=34d399&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d&locale=pt_BR"/>
-    <img src="https://streak-stats.demolab.com?user=abner-lucas&hide_border=true&background=ffffff&ring=6d28d9&fire=059669&currStreakLabel=6d28d9&sideLabels=1f2328&currStreakNum=1f2328&sideNums=1f2328&dates=57606a&stroke=d0d7de&locale=pt_BR" alt="Sequência de contribuições"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abner-lucas&hide_border=true&border_radius=24&background=0e1714&ring=c8f05a&fire=ff6b4a&currStreakLabel=c8f05a&sideLabels=e6efea&currStreakNum=e6efea&sideNums=e6efea&dates=9db1a7&stroke=1f2f29&locale=pt_BR"/>
+    <img src="https://streak-stats.demolab.com?user=abner-lucas&hide_border=true&border_radius=24&background=f3f5ef&ring=0e7a54&fire=ff6b4a&currStreakLabel=0e7a54&sideLabels=0c1a15&currStreakNum=0c1a15&sideNums=0c1a15&dates=4a5b53&stroke=d9e1d6&locale=pt_BR" alt="Sequência de contribuições"/>
   </picture>
 </p>
 
@@ -148,12 +127,12 @@ class AbnerLucas:
   </picture>
 </p>
 
----
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abner-lucas&label=Visitas+ao+perfil&color=6d28d9&style=flat-square" alt="Visitas ao perfil"/>
+  <a href="https://profabnerlucas.com"><img src="assets/rodape.svg" width="100%" alt="ábner.lucas · sentir. pensar. agir."/></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3b0764,55:6d28d9,100:059669&section=footer" width="100%" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=abner-lucas&label=visitas+ao+perfil&color=0e7a54&style=flat-square" alt="Visitas ao perfil"/>
 </p>
