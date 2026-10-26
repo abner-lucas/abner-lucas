@@ -107,8 +107,8 @@ Na pesquisa, trabalho com **Deep Learning**, redes neurais artificiais, sinais c
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=abner-lucas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=24&rank_icon=github&bg_color=f3f5ef&title_color=0e7a54&icon_color=13976a&text_color=0c1a15&ring_color=0e7a54&locale=pt-br" alt="Estatísticas do GitHub"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abner-lucas&layout=compact&langs_count=6&size_weight=0&count_weight=1&exclude_repo=tp-cruzi-db&hide=purebasic,plpgsql&hide_border=true&border_radius=24&bg_color=0e1714&title_color=3dd69b&text_color=e6efea&locale=pt-br"/>
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abner-lucas&layout=compact&langs_count=6&size_weight=0&count_weight=1&exclude_repo=tp-cruzi-db&hide=purebasic,plpgsql&hide_border=true&border_radius=24&bg_color=f3f5ef&title_color=0e7a54&text_color=0c1a15&locale=pt-br" alt="Linguagens mais usadas"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abner-lucas&layout=compact&langs_count=6&size_weight=0&count_weight=1&exclude_repo=tp-cruzi-db&hide=purebasic%2Cplpgsql&hide_border=true&border_radius=24&bg_color=0e1714&title_color=3dd69b&text_color=e6efea&locale=pt-br"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abner-lucas&layout=compact&langs_count=6&size_weight=0&count_weight=1&exclude_repo=tp-cruzi-db&hide=purebasic%2Cplpgsql&hide_border=true&border_radius=24&bg_color=f3f5ef&title_color=0e7a54&text_color=0c1a15&locale=pt-br" alt="Linguagens mais usadas"/>
   </picture>
 </p>
 
