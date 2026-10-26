@@ -34,8 +34,6 @@ Na pesquisa, trabalho com **Deep Learning**, redes neurais artificiais, sinais c
 
 `Inteligência Computacional` `Deep Learning` `Redes Neurais` `Robótica` `Computação Gráfica` `Desenvolvimento Web`
 
-> Este perfil usa a mesma identidade visual do meu site. O código dele também é aberto: [abner-lucas/portfolio](https://github.com/abner-lucas/portfolio).
-
 <br clear="right"/>
 <br/>
 
