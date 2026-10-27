@@ -48,7 +48,7 @@ Na pesquisa, trabalho com **Deep Learning**, redes neurais artificiais, sinais c
 </p>
 <p align="center">
   <a href="https://abner-lucas.github.io/letramento-digital-em-ia/"><img src="assets/subapps/letramento-ia.svg" width="48%" alt="Letramento Digital em IA: curso para estudantes e comunidades de Belém"/></a>
-  <a href="https://monitor-acai.vercel.app"><img src="assets/subapps/monitor-acai.svg" width="48%" alt="MonitorAçaí: rodízio de sensores de umidade do solo no sistema agroflorestal de açaí"/></a>
+  <a href="https://monitoracai.profabnerlucas.com"><img src="assets/subapps/monitor-acai.svg" width="48%" alt="MonitorAçaí: rodízio de sensores de umidade do solo no sistema agroflorestal de açaí"/></a>
 </p>
 <p align="center">
   <a href="https://abner-lucas.github.io/computacao-grafica/"><img src="assets/subapps/computacao-grafica.svg" width="48%" alt="Portal de Computação Gráfica: trilha de aprendizado e modelos 3D interativos"/></a>
