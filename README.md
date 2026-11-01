@@ -101,17 +101,6 @@ Na pesquisa, trabalho com **Deep Learning**, redes neurais artificiais, sinais c
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abner-lucas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=24&rank_icon=github&bg_color=0e1714&title_color=3dd69b&icon_color=c8f05a&text_color=e6efea&ring_color=c8f05a&locale=pt-br"/>
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=abner-lucas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=24&rank_icon=github&bg_color=f3f5ef&title_color=0e7a54&icon_color=13976a&text_color=0c1a15&ring_color=0e7a54&locale=pt-br" alt="Estatísticas do GitHub"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abner-lucas&layout=compact&langs_count=6&size_weight=0&count_weight=1&exclude_repo=tp-cruzi-db&hide=purebasic%2Cplpgsql&hide_border=true&border_radius=24&bg_color=0e1714&title_color=3dd69b&text_color=e6efea&locale=pt-br"/>
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abner-lucas&layout=compact&langs_count=6&size_weight=0&count_weight=1&exclude_repo=tp-cruzi-db&hide=purebasic%2Cplpgsql&hide_border=true&border_radius=24&bg_color=f3f5ef&title_color=0e7a54&text_color=0c1a15&locale=pt-br" alt="Linguagens mais usadas"/>
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abner-lucas&hide_border=true&border_radius=24&background=0e1714&ring=c8f05a&fire=ff6b4a&currStreakLabel=c8f05a&sideLabels=e6efea&currStreakNum=e6efea&sideNums=e6efea&dates=9db1a7&stroke=1f2f29&locale=pt_BR"/>
     <img src="https://streak-stats.demolab.com?user=abner-lucas&hide_border=true&border_radius=24&background=f3f5ef&ring=0e7a54&fire=ff6b4a&currStreakLabel=0e7a54&sideLabels=0c1a15&currStreakNum=0c1a15&sideNums=0c1a15&dates=4a5b53&stroke=d9e1d6&locale=pt_BR" alt="Sequência de contribuições"/>
   </picture>
